@@ -20,11 +20,16 @@
         <header>
             <div class="menu">Menu goes here - home - links - blah blah</div>
         </header>
-        <div class="content">
-            <div id="editor"></div>
-        </div>
+        <main>
+            <div class="content">
+                <div id="editor"></div>
+            </div>
+        </main>
+        <footer>
+            
+        </footer>
         <script src="js/jquery-3.1.0.js"></script>
-        <!--<script src="js/main.js"></script>-->
+        <script src="js/main.js"></script>
         <script src="js/ace/ace.js"></script>
         <script src="js/ace/ext-language_tools.js"></script>
         <script>
